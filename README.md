@@ -5,3 +5,5 @@
 </p>
 
 ![Yamitzky's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yamitzky&layout=compact&hide=Jupyter+Notebook&exclude_repo=word2vec-japanese-twitter,isucon11-qualify,dotfiles)
+
+🏠 https://yamitzky.com/ 🏠
